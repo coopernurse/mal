@@ -1,0 +1,3 @@
+#!/bin/bash
+java -jar $(dirname $0)/${STEP:-stepA_mal}.jar "${@}" | tee /tmp/foo.txt
+

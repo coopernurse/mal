@@ -71,6 +71,8 @@ haxe/*.js
 java/mal.jar
 java/target/
 java/dependency-reduced-pom.xml
+jckotlin/*.jar
+jckotlin/*.iml
 js/mal.js
 js/web/mal.js
 kotlin/*.jar
